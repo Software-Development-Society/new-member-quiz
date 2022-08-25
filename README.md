@@ -5,7 +5,7 @@ this simple quiz will test you knowledge on some basic git concepts before you c
 steps to completing quiz:              
 1- clone this repo onto your machine            
 2- create a branch on your local machine with your name in the format of firstname-lastname                
-3- push this branch to the remote GitHub repo                      
+3- push this branch to the remote GitHub repo git --set-upstream origin your-branch                      
 4- edit the code to add a print statment containing your name               
 5- add, commit, and push the file to your branch                   
 6- submit a pull requst with your changed files from your branch to the main              
